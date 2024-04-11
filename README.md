@@ -1,6 +1,7 @@
 
 <p align="left"><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
+<br> <br>
 Hello there 👋,
 
 I'm <b>Raphael</b>, also known as Toukoum. I'm a fan of L'OM and I love eating pasta.
@@ -10,11 +11,11 @@ I'm <b>Raphael</b>, also known as Toukoum. I'm a fan of L'OM and I love eating p
 - Love sport. ⛷️<br>
 
 My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeWgCyZA"> <img width=70px src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<br> <br>
+<br> <br>
 
----
-
-
-<h3 align="start">Skills ✅</h3>
+## Skills ✅
+<br> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=color" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=color" />
@@ -34,9 +35,11 @@ My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeW
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black" />
 </p>
+<br>
+<br>
 
----
 ## 42 Project
+
 <p align="center">
   <a href="https://github.com/toukoum/libft-42">
     <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
