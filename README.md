@@ -10,7 +10,7 @@ I'm <b>Raphael</b>, also known as Toukoum. I'm a fan of L'OM and I love eating p
 - <u>Try to build Saas.</u> 🏆<br>
 - Love sport. ⛷️<br>
 
-My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeWgCyZA"> <img width=70px src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeWgCyZA"> <img width=70px src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 <br> <br>
 <br> <br>
 
