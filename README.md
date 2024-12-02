@@ -10,7 +10,7 @@ My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeW
 <br> <br>
 <br> <br>
 
-## Skills ✅
+## Skills
 <br> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=color" />
