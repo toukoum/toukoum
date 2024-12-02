@@ -1,14 +1,10 @@
 
-<p align="left"><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <br> <br>
 Hello there 👋,
 
 I'm <b>Raphael</b>, also known as Toukoum. I'm a fan of L'OM and I love eating pasta.
-
-- Currently Studying Coding at <a href="https://42.fr/en/homepage/"> 42 </a> School in Paris. 🇫🇷 <br>
-- <u>Try to build Saas.</u> 🏆<br>
-- Love sport. ⛷️<br>
 
 My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeWgCyZA"> <img width=70px src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 <br> <br>
@@ -37,51 +33,3 @@ My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeW
 </p>
 <br>
 <br>
-
-## 42 Project
-
-<p align="center">
-  <a href="https://github.com/toukoum/libft-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/toukoum/get_next_line-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/toukoum/ft_printf-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf_bonus.webp" />
-  </a>
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp" />
-  <a href="https://github.com/toukoum/push_swap-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus.webp" />
-  </a>
-  <a href="https://github.com/toukoum/minitalk-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/toukoum/fractol-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/toukoum/Michelle-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/toukoum/philo-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus_max.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/cub3d">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />
-  </a>
-  <a href="https://github.com/toukoum/cpp-42">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/net_practice">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/inception">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/webserv">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv_bonus.webp" />
-  </a>
-  <a href="https://github.com/leogaudin/ft_transcendence">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />
-  </a>
-</p>
