@@ -19,10 +19,9 @@ My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeW
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=color" />
+  	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=color" />
+    <img src="https://img.shields.io/badge/OpenAI-FF0084?style=flat&logo=openai&logoColor=color" />
 	
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-FF0084?style=flat&logo=openai&logoColor=color" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=color" />
 
 </p>
 <p align="center">
@@ -32,6 +31,10 @@ My youtube channel: <a href="https://www.youtube.com/channel/UC9MxXD1D6RRVYAZxeW
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=color" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=color" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=color" />
+	  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=black" />
+
+
+
 
 
 </p>
